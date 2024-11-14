@@ -1,0 +1,14 @@
+# atmos generated files
+.terraform
+.terraform.lock.hcl
+terraform.tfstate.d
+
+*.planfile
+*.tfvars.json
+
+
+# script generated files
+deploy
+catalog
+
+
